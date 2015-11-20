@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dc0f5fdd-8cde-4e32-8034-215e0b149647</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>RobotHtml.py</StartupFile>
+    <StartupFile>XmlSum.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,6 +31,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="SumWithSoup.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="XmlSum.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
