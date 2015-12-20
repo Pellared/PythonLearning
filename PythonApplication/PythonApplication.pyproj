@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dc0f5fdd-8cde-4e32-8034-215e0b149647</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Sql1.py</StartupFile>
+    <StartupFile>Sql2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +37,9 @@
     <Compile Include="Sql1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Sql2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="SumOfNumbers.py" />
     <Compile Include="SumOfNumbersHttp.py">
       <SubType>Code</SubType>
@@ -49,6 +52,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Library.xml" />
     <Content Include="mbox.txt" />
     <Content Include="regex_sum_172402.txt" />
     <Content Include="regex_sum_42.txt" />
