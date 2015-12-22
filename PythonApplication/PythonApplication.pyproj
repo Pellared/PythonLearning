@@ -5,7 +5,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dc0f5fdd-8cde-4e32-8034-215e0b149647</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Sql3.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
